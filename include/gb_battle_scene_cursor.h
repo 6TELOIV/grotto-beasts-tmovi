@@ -12,8 +12,7 @@
 namespace gb
 {
     namespace battle {
-        
-        constexpr bn::fixed_point cursor_playmat_locations[playmat_spaces] = {
+        constexpr bn::fixed_point cursor_playmat_locations[playmat_spaces_middle + 8] = {
             {-90, 10},
             {-60, 10},
             {-30, 10},
@@ -44,34 +43,20 @@ namespace gb
             {72, -58},
         };
 
-        constexpr int hand_location_count = 5;
-        constexpr bn::fixed_point cursor_hand_locations[hand_location_count] = {
-            {8, 40},
-            {32, 40},
-            {56, 40},
-            {80, 40},
-            {104, 40},
+        constexpr bn::fixed_point cursor_player_hand_locations[player_hand_slots] = {
+            {24, 40},
+            {48, 40},
+            {72, 40},
+            {96, 40},
         };
-        
 
         struct cursor
         {
-            int playmat_x;
-            int playmat_y;
-            bool in_hand;
-            int hand_index;
-            int hand_offset;
             bn::sprite_ptr sprite;
 
             cursor();
 
-            void move_up();
-
-            void move_down();
-
-            void move_right();
-
-            void move_left();
+            void move_to(int x, int y);
         };
  
     }

@@ -1,7 +1,7 @@
 #include "gb_battle_scene.h"
 
 // Dependencies
-#include "gb_battle_scene_cards.h"
+#include "gb_battle_scene_cards_graphics.h"
 #include "gb_battle_scene_cursor.h"
 #include "gb_battle_scene_state.h"
 #include "bn_core.h"

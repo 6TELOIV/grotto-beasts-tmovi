@@ -1,0 +1,43 @@
+{
+    "configurations": [
+        {
+            "name": "(gdb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "targetArchitecture": "arm",
+            "program": "${workspaceFolder}/grotto-beasts-tmovi.elf",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerServerAddress": "localhost:2345",
+            "windows": {
+                "miDebuggerPath": "${env:DEVKITARM}/bin/arm-none-eabi-gdb.exe",
+                "setupCommands": [
+                    {
+                        "text": "shell start /b \"\" \"${env:ProgramFiles}/mGBA/mGBA.exe\" -g \"${workspaceFolder}/grotto-beasts-tmovi.elf\""
+                    }
+                ]
+            },
+            "linux": {
+                "miDebuggerPath": "${env:DEVKITARM}/bin/arm-none-eabi-gdb",
+                "setupCommands": [
+                    {
+                        "text": "shell \"mgba-qt\" -g \"${workspaceFolder}/grotto-beasts-tmovi.elf\" &"
+                    }
+                ]
+            },
+            "osx": {
+                "miDebuggerPath": "${env:DEVKITARM}/bin/arm-none-eabi-gdb",
+                "setupCommands": [
+                    {
+                        "text": "shell open -a mGBA --args -g \"${workspaceFolder}/grotto-beasts-tmovi.elf\""
+                    }
+                ]
+            },
+            "preLaunchTask": "make"
+        }
+    ]
+}

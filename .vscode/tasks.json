@@ -28,18 +28,6 @@
                 "kind": "build",
                 "isDefault": true
             }
-        },
-        {
-            "label": "run",
-            "command": "make -j8 && C:/gba/emu.exe grotto-beasts-tmovi.gba",
-            "type": "shell",
-            "args": [],
-            "problemMatcher": [
-                "$tsc"
-            ],
-            "presentation": {
-                "reveal": "always"
-            }
         }
     ]
 }

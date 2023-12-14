@@ -33,8 +33,10 @@ PYTHON      :=  python
 SOURCES     :=  src
 INCLUDES    :=  include
 DATA        :=
-GRAPHICS    :=  graphics
+GRAPHICS    :=  graphics $(BUILD)/fonts
 AUDIO       :=  audio
+FONTS       :=  fonts/fonts/Unifont
+TEXTS       :=  include/gb_cards.h
 DMGAUDIO    :=  dmg_audio
 ROMTITLE    :=  ROM TITLE
 ROMCODE     :=  SBTP
@@ -45,7 +47,7 @@ USERLIBDIRS :=
 USERLIBS    :=  
 DEFAULTLIBS :=  
 USERBUILD   :=  
-EXTTOOL     :=  
+EXTTOOL 	:= $(PYTHON) ./fonts/tools/butano/butano_fonts_tool.py --build=$(BUILD) --fonts="$(FONTS)" --texts="$(TEXTS)"
 
 #---------------------------------------------------------------------------------------------------------------------
 # Export absolute butano path:

@@ -1,0 +1,4418 @@
+[
+    {
+        "_id": "643f6aa3cb2e336162942480",
+        "Number": 1,
+        "Name": "Glueman",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Ashlelang",
+        "Power": 1,
+        "Goal": 16,
+        "Cost": "-",
+        "Effect": "When attacking alone, Glueman does not rest and gains 1 power for each Beast on your team until the end of the turn.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Ashlelang",
+                "Link": "https://twitter.com/Ashlelang"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294243a",
+        "Number": 2,
+        "Name": "B.F. Bugleberry",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Jason Rainville",
+        "Power": 1,
+        "Goal": 16,
+        "Cost": "-",
+        "Effect": "During either of you action phases at any time, you may rest B. F. Bugleberry and discard three cards from your score pile. If you do, summon any card from your hand free of cost.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Jason Rainville",
+                "Link": "https://twitter.com/rhineville"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942485",
+        "Number": 3,
+        "Name": "Grandpa",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Gwen M.",
+        "Power": 1,
+        "Goal": 12,
+        "Cost": "-",
+        "Effect": "You have no maximum hand size.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Gwen M.",
+                "Link": "https://twitter.com/alltheangelssay"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294245e",
+        "Number": 4,
+        "Name": "Demon Lord Zeraxos",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Snoozincopter",
+        "Power": 3,
+        "Goal": 18,
+        "Cost": "-",
+        "Effect": "At the start of each player's turn, if they have more Beasts in play than their opponents, that player may discard a Beast they own. If they don't, their opponents score a card.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Snoozincopter",
+                "Link": "https://twitter.com/Snoozincopter"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942496",
+        "Number": 5,
+        "Name": "JEX",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Jason Rainville",
+        "Power": 2,
+        "Goal": 18,
+        "Cost": "-",
+        "Effect": "Your deck may ignore the \"Epic Rule\"",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Jason Rainville",
+                "Link": "https://twitter.com/rhineville"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424ab",
+        "Number": 6,
+        "Name": "Mr. Greenz",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Slab Mangrave",
+        "Power": 1,
+        "Goal": 21,
+        "Cost": "-",
+        "Effect": "When a card effect has you roll exactly one die, roll an additional die. You may choose which die result to use for the card effect.\n\nWhen you roll exactly two dice, if the result on both die is the same number, score three cards.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Slab Mangrave",
+                "Link": "https://twitter.com/SlabMangrave"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942490",
+        "Number": 7,
+        "Name": "Jerma",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "kevins_computer",
+        "Power": 1,
+        "Goal": 12,
+        "Cost": "-",
+        "Effect": "When you lose a coin flip, attach a card from your deck face down onto Jerma.\n\nWhen you flip a coin, if there are two cards attached to Jerma, you win that coin flip regardless of what you call and discard all cards attached to Jerma.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "kevins_computer",
+                "Link": "https://twitter.com/kevins_computer"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942450",
+        "Number": 8,
+        "Name": "Carl Griffinsteed",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "WiseSeaMonster",
+        "Power": 3,
+        "Goal": 17,
+        "Cost": "-",
+        "Effect": "When you choose attackers or defenders, you may discard two cards. If you don't, Carl Griffinsteed cannot attack or defend until the end of the turn.\n\nCarl Griffinsteed gains 3 power as long as you have twenty or more cards in your discard pile.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "WiseSeaMonster",
+                "Link": "https://twitter.com/WiseSeaMonster_"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942491",
+        "Number": 9,
+        "Name": "Jerma Earth",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "kevins_computer",
+        "Power": 0,
+        "Goal": 15,
+        "Cost": "-",
+        "Effect": "At the start of your turn, if you have five Grottos in play, score a card.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "kevins_computer",
+                "Link": "https://twitter.com/kevins_computer"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942492",
+        "Number": 10,
+        "Name": "Jerma Moon",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Milkbox",
+        "Power": 1,
+        "Goal": 13,
+        "Cost": "-",
+        "Effect": "Jerma Moon gains 2 power as long as you have more resting Beasts in play than any opponent.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Milkbox",
+                "Link": "https://twitter.com/milkbox103"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942495",
+        "Number": 11,
+        "Name": "Jerma Venus",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 0,
+        "Goal": 15,
+        "Cost": "-",
+        "Effect": "Beasts each player summons do not gain summoning sadness.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942493",
+        "Number": 12,
+        "Name": "Jerma Pluto",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Tree",
+        "Power": 0,
+        "Goal": 12,
+        "Cost": "-",
+        "Effect": "You may look at the cards in any player's score pile at any time.\n\nAt the start of your turn, if you have the fewest number of cards scored than any other player, draw a card.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Tree",
+                "Link": "https://twitter.com/subwaymayofan"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424eb",
+        "Number": 13,
+        "Name": "The Jerm",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Blordow",
+        "Power": 1,
+        "Goal": 12,
+        "Cost": "-",
+        "Effect": "At the start of each opponent's turn, The Jerm wakes up.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Blordow",
+                "Link": "https://twitter.com/blordow"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294244d",
+        "Number": 14,
+        "Name": "Byeah Prime",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Gwen M.",
+        "Power": 1,
+        "Goal": 15,
+        "Cost": "-",
+        "Effect": "Your deck size must be sixty cards.\n\nYour maximum hand size is increased by 2.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Gwen M.",
+                "Link": "https://twitter.com/alltheangelssay"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294243c",
+        "Number": 15,
+        "Name": "Bat Boy",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 1,
+        "Goal": 10,
+        "Cost": "-",
+        "Effect": "Beasts you have in play lose 1 power.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942483",
+        "Number": 16,
+        "Name": "Green Screen",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 2,
+        "Goal": 15,
+        "Cost": "-",
+        "Effect": "When a Grotto you have in play is discarded, you may attach it face up onto Green Screen instead.\n\nWhen you would score a card, you may discard the top three cards of your deck instead. If you do, choose a Grotto attached to Green Screen and summon it free of cost.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424ea",
+        "Number": 17,
+        "Name": "The Giant Rat",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 2,
+        "Goal": 16,
+        "Cost": "-",
+        "Effect": "When you summon a Rat Beast, you may return a Rat Beast from your discard pile to the top of your summoning pool.\n\nWhen you score a card, reveal it to all players. If it is a Rat Beast, you may summon it to your sideline free of cost.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424e2",
+        "Number": 18,
+        "Name": "Sus Guy",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Corax",
+        "Power": 2,
+        "Goal": 14,
+        "Cost": "-",
+        "Effect": "At the end of your turn, if your deck has exactly zero cards in it, you win the game.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Corax",
+                "Link": "https://twitter.com/corax42"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424e9",
+        "Number": 19,
+        "Name": "The Jem Wizard",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 0,
+        "Goal": 14,
+        "Cost": "-",
+        "Effect": "The top card of your deck is always revealed to all players.\n\nYou may summon the top card of your deck as if it was in your hand. If it is a Wish, its summoning cost is 1 less.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424b4",
+        "Number": 20,
+        "Name": "Otto",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 1,
+        "Goal": 16,
+        "Cost": "-",
+        "Effect": "When attacking, Gruffling Beasts you have in play gain 1 power until the end of the turn.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424c8",
+        "Number": 21,
+        "Name": "Scritchy Scratch",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 2,
+        "Goal": 15,
+        "Cost": "-",
+        "Effect": "At the start of each opponent's turn, that player discards the top card of their deck.\n\nWhen an opponent shuffles their deck, that player discards the top card of their deck.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424f5",
+        "Number": 22,
+        "Name": "Wall Dad",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Gwen M.",
+        "Power": 4,
+        "Goal": 16,
+        "Cost": "-",
+        "Effect": "Wall Dad cannot attack.\n\nWhen defending, the attacking player scores two cards.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Gwen M.",
+                "Link": "https://twitter.com/alltheangelssay"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294247d",
+        "Number": 23,
+        "Name": "Giant Enemy Spider",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 0,
+        "Goal": 15,
+        "Cost": "-",
+        "Effect": "You may choose Beasts on your sideline to defend during battle as though they were on your team.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942432",
+        "Number": 24,
+        "Name": "30's Milkman",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Gwen M.",
+        "Power": 1,
+        "Goal": 12,
+        "Cost": "-",
+        "Effect": "When a card effect an opponent activates allows them to search their deck or look at cards on the top of their deck, draw a card.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Gwen M.",
+                "Link": "https://twitter.com/alltheangelssay"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424a5",
+        "Number": 25,
+        "Name": "Michael the Birthday Boy",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 0,
+        "Goal": 13,
+        "Cost": "-",
+        "Effect": "During game setup, attach ten cards at random from your deck face down onto Michael the Birthday Boy.\n\nWhen an opponent scores a card, you may look at the cards attached to Michael the Birthday Boy. If you do, choose one of them and put it into your hand.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424b0",
+        "Number": 26,
+        "Name": "One Guy",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Jerma",
+        "Power": 1,
+        "Goal": 13,
+        "Cost": "-",
+        "Effect": "You draw an additional card when defeating Challengers.\n\nWhen you defeat a Challenger named Jerma, draw a card.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Jerma",
+                "Link": "https://twitter.com/Jerma985"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424b7",
+        "Number": 27,
+        "Name": "Pirouette",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 1,
+        "Goal": 14,
+        "Cost": "-",
+        "Effect": "Wishes you summon cost 1 less for each Beast and Grotto you summoned this turn.\n\nAt the end of your turn, if you scored at least one card this turn, you may return a Wish from your discard pile to your hand.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942436",
+        "Number": 28,
+        "Name": "Abacus 1.0",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": 14,
+        "Cost": "-",
+        "Effect": "When a Beast or Grotto you have in play is discarded from play, you may move any cards attached to it onto any number of other Beasts or Grottos you have in play.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424e7",
+        "Number": 29,
+        "Name": "The Big Baker",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 2,
+        "Goal": 13,
+        "Cost": "-",
+        "Effect": "During game setup, search your deck for six cards and put them into your hand. This becomes your starting hand for the game. Shuffle your deck when you're done.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942455",
+        "Number": 30,
+        "Name": "Cloud King",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 0,
+        "Goal": 18,
+        "Cost": "-",
+        "Effect": "Cloud King gains 1 power for each Wish attached to it.\n\nWhen you score a card, reveal it to all players. If the revealed card is a Wish, attach it face up onto Cloud King.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424b5",
+        "Number": 31,
+        "Name": "Pine Princess",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 0,
+        "Goal": 16,
+        "Cost": "-",
+        "Effect": "Pine Princess gains 1 power for each Grotto you have in play.\n\nWhen the Grotto under Pine Princess is discarded from play, you may score it instead.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424ac",
+        "Number": 32,
+        "Name": "Naturalist Langston",
+        "Type": "Challenger",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 0,
+        "Goal": 16,
+        "Cost": "-",
+        "Effect": "When you summon a Beast, if it doesn't share a name with any other Beast you have in play, attach a card from the top card of your deck face down onto that Beast.\n\nWhen a Beast on your team attacks or defends, you may discard a card attached to it. If you do, that Beast gains 1 power until the end of the turn.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942443",
+        "Number": 33,
+        "Name": "Bittersweet Peaks",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When summoned, attach a card from the top of your deck face down onto Bittersweet Peaks.\n\nWhen the Beast or Challenger above Bittersweet Peaks attacks or defends, put all face down cards attached to Bittersweet Peaks into your hand. If there are no cards attached to Bittersweet Peaks, return it to your hand instead.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294244c",
+        "Number": 34,
+        "Name": "Brightlight Casino",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When you win a coin flip, draw a card.",
+        "Fun": "It's good to be the house.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294244f",
+        "Number": 35,
+        "Name": "Carnival Kingdom",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 6,
+        "Effect": "At the end of your turn, put the top card from your summoning pool into your hand for each resting Beast above and beside Carnival Kingdom.",
+        "Fun": "Welcome, to the grand re-opening!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942456",
+        "Number": 36,
+        "Name": "Cloudtop Observatory",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "Wishes you summon from your hand are put on the bottom of your summoning pool rather than discarded after their card effect is activated.",
+        "Fun": "It's said that the Polestar Observatory's lens can see beyond the thickest fog, even through different planes.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942459",
+        "Number": 37,
+        "Name": "Coral Shoal",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "Aquatic Beasts on your team gain 1 power.",
+        "Fun": "Over time it builds up, becoming a fortress and a home.",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294245d",
+        "Number": 38,
+        "Name": "Dank Sewer",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When an opponent scores a card, that player discards the top card of their deck.",
+        "Fun": "It's rumored there's a treasure here, much more than meets the eye. If it were to fall into the wrong hands...",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942471",
+        "Number": 39,
+        "Name": "Forgotten Tableau",
+        "Type": "Grotto",
+        "Epic": "TRUE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "At the end of your turn, if you have one of each Beast named Jup the 1st, Jup the 2nd, Jup the 3rd, and Jup the 4th on your sideline, score each of them and Forgotten Tableau.",
+        "Fun": "No one knows what'd happen if the glyphs were returned.",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942477",
+        "Number": 40,
+        "Name": "Fossil Ridge",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When a card effect an opponent activates causes you to discard cards from your hand or your deck, you may choose to put those cards on the top of your summoning pool instead.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942479",
+        "Number": 41,
+        "Name": "Fruit Jungle",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When the Beast above Fruit Jungle attacks, it gains 1 power until the end of the turn.",
+        "Fun": "Surrounded by so many tasty treats, the Beasts here tend to grow faster then those within neighboring lands.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294247f",
+        "Number": 42,
+        "Name": "Glowing Cavern",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When the Beast above Glowing Cavern is discarded, you may choose to rest that Beast and discard Glowing Carvern instead.",
+        "Fun": "Bioluminescent lichens illuminate the pathways much better than torches would.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942489",
+        "Number": 43,
+        "Name": "Haunted Manor",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "At the end of your turn, if you have two or fewer cards in your hand, you may choose a card in your discard pile, reveal it to all players, and put it into your hand.",
+        "Fun": "Don't go near, if the lights go on.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424a1",
+        "Number": 44,
+        "Name": "Magical Canopy",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When the Beast above Magical Canopy defends, that Beast gains 2 power until the end of the turn.",
+        "Fun": "Under the shade of the great trees, the Beasts find protection.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424a2",
+        "Number": 45,
+        "Name": "Maze of Many Ways",
+        "Type": "Grotto",
+        "Epic": "TRUE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "At the start of your turn, you may discard the Beast above Maze of Many Ways. If you do, search your deck for a Beast with a summoning cost of exactly 1 more than the discarded Beast and summon it above Maze of Many Ways free of cost. Shuffle your deck when you're done.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424a6",
+        "Number": 46,
+        "Name": "Metrometropolis",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When the result on a die you roll is an even number, the Beast above Metrometropolis gains 2 power until the end of the turn.\n\nWhen the result on a die you roll is a 1, the Beast above Metrometropolis rests.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424bc",
+        "Number": 47,
+        "Name": "Ponderer's Grove",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "At the start of your turn, you may choose to look at the top two cards of your deck. If you do, put one of them on bottom of your deck and the other back on the top of your deck.",
+        "Fun": "A trained eye can see the future within the waters.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424c5",
+        "Number": 48,
+        "Name": "Rumble Ring",
+        "Type": "Grotto",
+        "Epic": "TRUE",
+        "Artist": "Bellymouth",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "When the Beast or Challenger above Rumble Ring attacks alone, the attacked player may only choose up to one Beast or Challenger to defend this turn.",
+        "Fun": "Lord Zeraxos may have brought chaos to this world, but he also delivered the Jerma Rumble to all.",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424ce",
+        "Number": 49,
+        "Name": "Skeld's Factory",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "At the start of your turn, you may either attach a card from your hand face down onto a Beast beside Skeld's Factory, or put a face down card attached to a Beast beside Skeld's Factory into your hand.",
+        "Fun": "The air ducts have been inexplicably clean...",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424cf",
+        "Number": 50,
+        "Name": "Skull Valley",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Sturner & Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When you use \"rock\" during a game of Rock-Paper-Scissors, the Beast above Skull Valley gains 1 power until the end of the turn.",
+        "Fun": "To this day, no one knows for sure if it was carved with purpose, or if it was formed by chance.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            },
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424db",
+        "Number": 51,
+        "Name": "Sportball Stadium",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When you score a card, draw a card for each card scored.",
+        "Fun": "Right as the portal was opened by Lord Zeraxos, so did the JBA appear in this world.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424e0",
+        "Number": 52,
+        "Name": "Sunspring Field",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "Your maximum hand size is increased by 1.",
+        "Fun": "Where the sun shines, everything grows.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424f3",
+        "Number": 53,
+        "Name": "Volca Isle",
+        "Type": "Grotto",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "At the start of your turn, attach a card from the top of your deck face down onto Volca Isle. Then, if there are three or more cards attached to Volca Isle, choose a Beast in play and discard both the chosen Beast and Volca Isle.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942435",
+        "Number": 54,
+        "Name": "+2",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Choose a Beast in play and it gains 2 power until the start of your next turn.",
+        "Fun": "The crowd loved that!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942433",
+        "Number": 55,
+        "Name": "-2",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Choose a Beast in play and it loses 2 power until the start of your next turn.",
+        "Fun": "The crowd demands less of that.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294243e",
+        "Number": 56,
+        "Name": "Batter Up!",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Absterarts",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "Choose an awake Beast you have in play and it rests. Then, flip a number of coins equal to that Beast's power. If all coins flipped land on \"heads\", score cards equal to that Beast's power. Otherwise, draw a card.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Absterarts",
+                "Link": "https://twitter.com/absterarts"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942448",
+        "Number": 57,
+        "Name": "Bonus Luck",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "Flip a coin and call it. If you win the flip, draw three cards. If you lose the flip, draw a card.",
+        "Fun": "On one side, fortune; on the other side, fortune... but better!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942446",
+        "Number": 58,
+        "Name": "Book of Wonder",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Search your deck for a Wish or Grotto and you may reveal it to all players. If you do, put it in your hand. Shuffle your deck when you're done.",
+        "Fun": "The possibilities just leap off the pages!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942449",
+        "Number": 59,
+        "Name": "Bounty Board",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Choose a Beast an opponent has in play and they score it.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294244a",
+        "Number": 60,
+        "Name": "Breakdance Boots",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "Choose two Beasts a player has in play and they switch spots.",
+        "Fun": "Warning: May lead to extensive breaktime.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294244e",
+        "Number": 61,
+        "Name": "Call for Help",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "Search your deck for a Beast and you may reveal it to all players. If you do, put it into your hand. Shuffle your deck when you're done.",
+        "Fun": "\"Yeah... Send him back...\" -Jerma",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942453",
+        "Number": 62,
+        "Name": "Clip That!",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 0,
+        "Effect": "Choose a player and they put the top three cards of their deck into their summoning pool.",
+        "Fun": "\"Clip it, quick!\" -Jerma",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942458",
+        "Number": 63,
+        "Name": "Copycat",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "Choose a player, then search your deck for a card with the same name as a Beast or Grotto that player has in play, and reveal it to all players. If the chosen player is an opponent, summon the card free of cost. Otherwise, put it into your hand. Shuffle your deck when you're done.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294245a",
+        "Number": 64,
+        "Name": "Crazy Stunt",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 7,
+        "Effect": "Beasts on your team gain 2 power until the end of the turn. At the end of the battle this turn, discard each Beast chosen to attack.",
+        "Fun": "Bill was a fine, upstanding citizen. Then he met Gary, and it all went downhill from there.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294245c",
+        "Number": 65,
+        "Name": "Dance-Off",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "SodaSneb",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Each player reveals the top card of their deck at the same time. The player or players that reveal cards with the highest summoning cost put those cards into their hands. All other players score their revealed cards.",
+        "Fun": "\"If you think that you have what it takes to BE me, then you need to have what it takes to BEAT me.\" -Jerma",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "SodaSneb",
+                "Link": "https://twitter.com/SodaSneb"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942460",
+        "Number": 66,
+        "Name": "Dire Escape",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "Choose a Beast you have in play. Return it and all face down cards attached to it to your hand. (Any attached face up cards are discarded.)",
+        "Fun": "\"No, no, no, no, no, NO!!\" -Jerma",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942462",
+        "Number": 67,
+        "Name": "Double or Nothing",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Slab Mangrave",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "Play games of Rock-Paper-Scissors with an opponent until you draw, lose, or you choose to stop playing. If you had chosen to stop, draw a number of cards equal to the number of games you won in this way.",
+        "Fun": "\"Whaddyou got?! Ya ain't got nothin'!\" -Mr. Greenz",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Slab Mangrave",
+                "Link": "https://twitter.com/SlabMangrave"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942466",
+        "Number": 68,
+        "Name": "Dunk Tank",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Siins",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "Choose a Beast, then flip a coin and call it. If you win the flip, discard the chosen Beast. If you lose the flip, that Beast's player draws a card.",
+        "Fun": "\"I am as safe as you can possibly be. It's not gonna happen!\" -Jerma",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Siins",
+                "Link": "https://twitter.com/SIIINS"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942467",
+        "Number": 69,
+        "Name": "Eat It Up!",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "Choose a Beast on your team and it gains 1 power until the end of the turn. Then, draw a card.",
+        "Fun": "\"Ladies and gentlemen, The APPLE has come to rescue the Rumble! Thank goodness for The Apple!\" -Jerma",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294246a",
+        "Number": 70,
+        "Name": "Emergency Rescue",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 0,
+        "Effect": "Name a card and shuffle each card with that name from your discard pile into your deck.",
+        "Fun": "Proudly serving over 200,000!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294246b",
+        "Number": 71,
+        "Name": "Encouraging Cheer",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "kevins_computer",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "Beasts on your team gain 1 power until the end of the turn.",
+        "Fun": "YOU'RE DOING A GREAT JOB!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "kevins_computer",
+                "Link": "https://twitter.com/kevins_computer"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294246c",
+        "Number": 72,
+        "Name": "Energizing Drink",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Choose a Beast you have in play and if it is resting, it wakes up. The chosen Beast does not rest if chosen to attack this turn.",
+        "Fun": "Green tea, sip.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294246f",
+        "Number": 73,
+        "Name": "Excavate",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "SodaSneb",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "Choose a Grotto in play and it is discarded. Then, you may put a Grotto from your discard pile into your hand.",
+        "Fun": "\" ...Whoever found this: Congratulations, you just went up a whole tax bracket.\" -Grandpa",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "SodaSneb",
+                "Link": "https://twitter.com/SodaSneb"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942475",
+        "Number": 74,
+        "Name": "Frog Slap",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Choose a Beast in play and either discard two cards attached to it, or attach a card from your hand face up onto it.",
+        "Fun": "An impressively accurate coordinated attack!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942476",
+        "Number": 75,
+        "Name": "Frog's Breath Potion",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Choose a player and they discard a resting Beast they have in play.",
+        "Fun": "Surprisingly potent.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294247a",
+        "Number": 76,
+        "Name": "Game Wipe",
+        "Type": "Wish",
+        "Epic": "TRUE",
+        "Artist": "WiseSeaMonster",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "Each player discards all Beasts they have in play.",
+        "Fun": "\"We're going to start a new game.\" -Jerma",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "WiseSeaMonster",
+                "Link": "https://twitter.com/WiseSeaMonster_"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942484",
+        "Number": 77,
+        "Name": "Greedy Grinner",
+        "Type": "Wish",
+        "Epic": "TRUE",
+        "Artist": "Jason Rainville",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "Set aside any number of cards from your score pile, then choose an opponent and they do the same. Then you both play a game of Rock-Paper-Scissors. The winner scores cards from the top of their deck equal to the number of cards they set aside and returns the set aside cards to their score pile. The loser discards the cards they set aside. If there is a draw, both players return their set aside cards to their score pile.",
+        "Fun": "\"I'll be takin' that one!' -The Greedy Grinner",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Jason Rainville",
+                "Link": "https://twitter.com/rhineville"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424f2",
+        "Number": 78,
+        "Name": "Up in the Air",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "Until the start of your next turn, when a Beast you have in play is discarded from play, return it to your hand instead.",
+        "Fun": "\"This is gonna be a fun trip, I think!\" -Jerma",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294248c",
+        "Number": 79,
+        "Name": "Intimidate",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Absterarts",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Choose a Beast on an opponent's team and you may move it to their sideline. If you do, that Beast may not move to that player's team during their next turn.",
+        "Fun": "\"Eeeeeerrrrooooo.\" -Jerma Raptor",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Absterarts",
+                "Link": "https://twitter.com/absterarts"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294248e",
+        "Number": 80,
+        "Name": "JBA Power Card: Upgrade",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 6,
+        "Effect": "Choose a Beast or Challenger in play. It gains power equal to its current power until the end of the turn.",
+        "Fun": "Proudly presented by the Jerma Baseball Association! Very sought after by the Phoenix Cavemen.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424b1",
+        "Number": 81,
+        "Name": "Open Geode",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "Look at the top four cards of your deck. Put one of them into your hand and the rest back on top of your deck in any order.",
+        "Fun": "You never know— inspiration may wait inside.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424bb",
+        "Number": 82,
+        "Name": "Presto Majesto",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Choose an awake Beast or Challenger in play and it rests.",
+        "Fun": "Master illusions with these magic words!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424c2",
+        "Number": 83,
+        "Name": "Reckless Offroading",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Choose a Grotto in play and it is discarded.",
+        "Fun": "It may seen like a simple clown car, but when driving, it's a circus all its own.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424c3",
+        "Number": 84,
+        "Name": "Reorganize",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "Count the number of cards in your score pile and put all your scored cards into your hand. Then put that many cards from your hand into your score pile face down.",
+        "Fun": "The Movers appear in dreams to deliver gifts. They seem to enjoy tomfoolery, fire, and interior design.",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424cd",
+        "Number": 85,
+        "Name": "Similar Company",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "Choose a Beast on your team. It gains 2 power until the end of the turn for each other Beast with the same name as the chosen Beast in play.",
+        "Fun": "Welcome to the monthly meeting of the Byeahs.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424d2",
+        "Number": 86,
+        "Name": "Smushed",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "SammNnn & Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "Choose a Beast or Grotto in play and it is discarded.",
+        "Fun": "This TV definitely weighs over 130 pounds.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "SammNnn",
+                "Link": "https://twitter.com/SamNewelle"
+            },
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424d5",
+        "Number": 87,
+        "Name": "Sneak Thief",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "Choose an opponent and look at their hand. You may choose a card in their hand and it is discarded.",
+        "Fun": "Your team has picked up the enemy intelligence!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424d8",
+        "Number": 88,
+        "Name": "Sole Survivor",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "If you only have one Beast or Challenger on your team, score a card. If it attacked this turn, score another card. If an opponent dealt battle damage to it, score another card.",
+        "Fun": "\"The Disco Diaper... He never was eliminated! Everyone just forgot about him.\" -Jerma",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424d9",
+        "Number": 89,
+        "Name": "Song of Protection",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Milkbox",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 0,
+        "Effect": "Choose a Beast in play and it cannot be chosen for card effects your opponent activates until the start of your next turn.",
+        "Fun": "Sheeto!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Milkbox",
+                "Link": "https://twitter.com/milkbox103"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424dc",
+        "Number": 90,
+        "Name": "Starbit Cluster",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "As Starbit Cluster is spent to pay the summoning cost of a Wish, you may discard Starbit Cluster instead of adding it to your summoning pool. If you do, draw a card.\n\nWhen Starbit Cluster is summoned from your hand, draw four cards.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424e1",
+        "Number": 91,
+        "Name": "Surprise Snack",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Tree",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "Reveal the top card of your deck to all players. If the revealed card has the same name as any card in play, score the revealed card. Otherwise, put it into your hand.",
+        "Fun": "\"Dude the thing that everybody!\" -Jerma",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Tree",
+                "Link": "https://twitter.com/subwaymayofan"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424e5",
+        "Number": 92,
+        "Name": "Tactical Rocket Launcher",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "Choose a Beast on an opponent's team and it is discarded.",
+        "Fun": "\"You never know when you're gonna need a rocket launcher\" -Carl Griffinsteed's Ol' Grandmother",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424e8",
+        "Number": 93,
+        "Name": "The Cauldron",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "Reveal the top card of your deck to all players one at a time until you reveal a Beast. If you do, you may summon the revealed Beast free of cost. Shuffle revealed cards into your deck when you're done.",
+        "Fun": "\"Jerma's DNA... What will we create this time?\" -B.F. Bugleberry",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424ee",
+        "Number": 94,
+        "Name": "Top Rope",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "Siins",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Choose a Beast you have on your sideline and you may move it to your team. If you do, choose a Beast an opponent has on their team with power less than or equal to your chosen Beast, and it is discarded.",
+        "Fun": "\"He's beating me, I can't take it!\" -Jerma",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Siins",
+                "Link": "https://twitter.com/SIIINS"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424f1",
+        "Number": 95,
+        "Name": "Try Another!",
+        "Type": "Wish",
+        "Epic": "FALSE",
+        "Artist": "SammNnn",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "Until the end of the turn, after each time you flip a coin or roll a die, you may discard a card from your hand. If you do, ignore the result of the coin or die, and redo it. (Card effects do not activate if a result is ignored.)",
+        "Fun": "Nice shootin'!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "SammNnn",
+                "Link": "https://twitter.com/SamNewelle"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424f7",
+        "Number": 96,
+        "Name": "Wild Dreams",
+        "Type": "Wish",
+        "Epic": "TRUE",
+        "Artist": "Blordow",
+        "Power": "-",
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "Each player switches their discard pile with their summoning pool.",
+        "Fun": "\"You want a test if you're dreaming? Flick a light switch. If it doesn't work, you're dreaming!\" -Jerma",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Blordow",
+                "Link": "https://twitter.com/blordow"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942431",
+        "Number": 97,
+        "Name": "2-Moon Jelly",
+        "Type": "Galactic Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles & Hollulu",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When another Beast on your team is discarded from play, you may attach it face up onto 2-Moon Jelly instead.\n\nAt the start of your turn, if there are four or more face up cards attached to 2-Moon Jelly, choose one of them and score it. Then, discard all other cards attached to 2-Moon Jelly.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            },
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942434",
+        "Number": 98,
+        "Name": "AiMbot-3940",
+        "Type": "Techtic Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When attacking or defending, roll a six-sided die. AiMbot-3940 gains power equal to the result until the end of turn.",
+        "Fun": "Don't underestimate this little robot catapult— it can process thousands of users inputs at once!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942437",
+        "Number": 99,
+        "Name": "Alieums",
+        "Type": "Galactic Beast",
+        "Epic": "TRUE",
+        "Artist": "Bellymouth",
+        "Power": 5,
+        "Goal": "-",
+        "Cost": 9,
+        "Effect": "As you summon Alieums, you may discard any number of face down cards attached to Beasts and Grottos you have in play. Alieums's summoning cost is 1 less for each card you discard in this way.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942438",
+        "Number": 100,
+        "Name": "Anhybite",
+        "Type": "Titanic Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "When summoned, you may choose any Grotto in play and it is discarded.",
+        "Fun": "These hearty creatures chew on volcanic gravel to keep their teeth sharp.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942439",
+        "Number": 101,
+        "Name": "Awoobis",
+        "Type": "Shadow Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "Awoobis cannot be chosen for card effects your opponents activate.",
+        "Fun": "Fiesty guard dog of those passing over. Fiercely preserves the secrets within.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294243b",
+        "Number": 102,
+        "Name": "Baghost",
+        "Type": "Ghostly Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "-",
+        "Fun": "Baghosts scurry around, masked in plastic bags. When truly frightened, they let the wind take them.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294243d",
+        "Number": 103,
+        "Name": "Baroot",
+        "Type": "Stone Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "Baroot gains 1 power as long as it is above a Grotto.",
+        "Fun": "A very relaxed creature. They pay no mind to the grass and moss that grows on their back.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942440",
+        "Number": 104,
+        "Name": "Beelt",
+        "Type": "Aquatic Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "-",
+        "Fun": "These color-shifting creatures can be found along the western coast's reefs, and are completely transparent in their larval stage.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294243f",
+        "Number": 105,
+        "Name": "Biogator",
+        "Type": "Toxic Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 6,
+        "Effect": "When attacking, each player must choose one Beast they have in play and it is discarded. (You may choose Biogator for this card effect.)",
+        "Fun": "They say bones are its toothbrush, mud its mouthwash ... and that one lurks withing the Carnival moat.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942442",
+        "Number": 106,
+        "Name": "Birds of Fortune",
+        "Type": "Feathered Beast",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When summoned or defending, play a game of Rock-Paper-Scissors with an opponent. If you win the game, return a card from your discard pile to your hand.",
+        "Fun": "Each morning they pluck unlucky feathers from their plumage, and move them far from their nests.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942441",
+        "Number": 107,
+        "Name": "Birthday Basher",
+        "Type": "Foodie Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When summoned, if you have a Beast named Sweet Tooth in play, Birthday Basher does not gain summoning sadness.",
+        "Fun": "These hotheads and their fiery cupcake cohorts patrol around the Bittersweet Peaks.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942444",
+        "Number": 108,
+        "Name": "Blademaus",
+        "Type": "Scout Beast",
+        "Epic": "TRUE",
+        "Artist": "Bellymouth",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "You cannot summon Blademaus if you have another Blademaus in play.",
+        "Fun": "The modified sewing needle Blademaus skillfuly weilds is a memento from an old friend.",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942445",
+        "Number": 109,
+        "Name": "Bobbin",
+        "Type": "Feathered Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When summoned, draw a card.",
+        "Fun": "To kickstart their flight, they breathe in air and float into the sky.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942447",
+        "Number": 110,
+        "Name": "Bottled Nightmare",
+        "Type": "Unspeakable Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When discarded from play, you may attach Bottled Nightmare face up onto any Beast in play instead.",
+        "Fun": "The destructive substance within swirls with an uncanny irridescence.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294244b",
+        "Number": 111,
+        "Name": "Byeah Beast",
+        "Type": "Byeah Beast",
+        "Epic": "TRUE",
+        "Artist": "Snoozincopter",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Your deck may contain any number of cards named Byeah Beast.",
+        "Fun": "Cheeseburgers. Hotdogs. Donuts. Bar fightin'. Bug collection.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Snoozincopter",
+                "Link": "https://twitter.com/Snoozincopter"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942451",
+        "Number": 112,
+        "Name": "Cauldrosaur",
+        "Type": "Ghostly Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When Cauldrosaur rests, draw a card.",
+        "Fun": "It clanks around, seeking ingredients to add to its frigid, bubbling core.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942454",
+        "Number": 113,
+        "Name": "Centilead",
+        "Type": "Techtic Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When summoned, attach a card from the top of your deck face down onto Centilead.",
+        "Fun": "The city has terminals built to prevent Centileads from draining electricity, but they rarely work, as the creatures just go for them first.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942452",
+        "Number": 114,
+        "Name": "Chromanova",
+        "Type": "Mystic Beast",
+        "Epic": "TRUE",
+        "Artist": "Melscribbles",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 6,
+        "Effect": "Beasts on your team that are above a Grotto gain 1 power.\n\nBeasts on your team that are beside Chromanova gain 1 power.",
+        "Fun": "It is said that once you get a glimpse of the rare Chromanova, you'll never be lucky again.",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942457",
+        "Number": 115,
+        "Name": "Connival",
+        "Type": "Imp Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 5,
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "At the start of your turn, you may discard a Grotto you have in play. If you don't, discard Connival.",
+        "Fun": "Their games are not to be trusted.",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294245b",
+        "Number": 116,
+        "Name": "Crabcha",
+        "Type": "Foodie Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Crabcha's summoning cost is 1 less for each other Crabcha you have in play.",
+        "Fun": "Crabchas migrate in huge numbers to the Bittersweet Peaks, where the clouds become sweet slush.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294245f",
+        "Number": 117,
+        "Name": "Dig Dog",
+        "Type": "Gruffling Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When summoned, you may choose a Grotto in your discard pile and put it on the top of your deck.",
+        "Fun": "These excellent burrowers have been known to squeeze themselves into holes one-tenth their height.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942461",
+        "Number": 118,
+        "Name": "Dragossom",
+        "Type": "Dragon Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When summoned to your sideline, choose a Beast on an opponent's team with power 2 or less and it is discarded.",
+        "Fun": "The most adorable ball of fiery distruction.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942463",
+        "Number": 119,
+        "Name": "Dream-Eater Bat",
+        "Type": "Shadow Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When summoned or attacking, you may choose a Beast or Grotto in play and discard one card attached to it.",
+        "Fun": "These nocturnal creatures can smell a nightmare from over 10 miles away!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942464",
+        "Number": 120,
+        "Name": "Dredgelord",
+        "Type": "Dragon Beast",
+        "Epic": "TRUE",
+        "Artist": "Sturner",
+        "Power": 8,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When summoned, attach five cards from the top of your deck face down onto Dredgelord.\n\nDredgelord cannot attack or defend if it has cards attached to it.",
+        "Fun": "Deep within the magma chambers, it slumbers...",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942465",
+        "Number": 121,
+        "Name": "Droplganger",
+        "Type": "Plant Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When attacking or defending, you may choose a Beast on an opponent's team. If the chosen Beast is above a Grotto, Droplganger gains power equal to the chosen Beast's power until the end of the turn.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942468",
+        "Number": 122,
+        "Name": "Dustbunny",
+        "Type": "Fairy Beast",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When summoned, you may choose a Beast in play and it rests.",
+        "Fun": "As they fly, small shining particles are left behind that tickle as you walk through them.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942469",
+        "Number": 123,
+        "Name": "EEE-Vamp",
+        "Type": "Musical Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When an opponent summons a Wish, that player discards the top card of their deck.",
+        "Fun": "Beware the cardioid mic— an EEE-Vamp's song can hit you right in the heart!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294246d",
+        "Number": 124,
+        "Name": "Exbeelosion",
+        "Type": "Insect Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When defending, the attacking player draws a scored card.",
+        "Fun": "They say the sting hurts like a blast of dynamite continuously combusting, for days.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294246e",
+        "Number": 125,
+        "Name": "Excasaur",
+        "Type": "Techtic Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When attacking or defending, if Excasaur is above a Grotto, you may discard that Grotto. If you do, Excasaur gains 3 power until the end of the turn.",
+        "Fun": "In this world, it's sometimes impossible to determine if something started out as an object, or as a creature.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942470",
+        "Number": 126,
+        "Name": "Festive Mimic",
+        "Type": "Surprise Beast",
+        "Epic": "TRUE",
+        "Artist": "Hollulu",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When summoned, roll a six-sided die. Draw a number of cards equal to the result on the die.",
+        "Fun": "Surprise!",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942472",
+        "Number": 127,
+        "Name": "Fleech",
+        "Type": "Aquatic Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "Fleech cannot defend.",
+        "Fun": "A Fleech's favorite foods are small fish, coral polyps, and the negative thoughts of unfortunate sailors.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942473",
+        "Number": 128,
+        "Name": "Fretzel",
+        "Type": "Foodie Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When defending, draw a card.",
+        "Fun": "Fretzels are highly mischevious— they often steal snacks, and enjoy the antics on the Carnival Grounds!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942474",
+        "Number": 129,
+        "Name": "Friendtriloquist",
+        "Type": "Puppet Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When summoned, attach all cards from your hand face down onto Friendtriloquist, then draw that many cards.\n\nAt the start of your turn, you may return a face down card attached to Friendtriloquist at random to your hand.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942478",
+        "Number": 130,
+        "Name": "Frostbite",
+        "Type": "Icy Beast",
+        "Epic": "FALSE",
+        "Artist": "Hollulu & Sturner",
+        "Power": 4,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "-",
+        "Fun": "These Beasts shepherd wandering spirits from completely losing their way. In turn, the ice that forms on them from prolonged ghostly exposure acts as armor.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            },
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294247b",
+        "Number": 131,
+        "Name": "Gachatron",
+        "Type": "Techtic Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When an opponent summons a Beast to their team, you may play a game of Rock-Paper-Scissors with them. If you do, the winner of the game draws a card.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294247c",
+        "Number": 132,
+        "Name": "Ghastlight",
+        "Type": "Ghostly Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When summoned, choose a player and they discard a card from their hand.",
+        "Fun": "It's not the kind of light one should follow.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294247e",
+        "Number": 133,
+        "Name": "Glow Angel",
+        "Type": "Angelic Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When summoned to your sideline, you may return two Beasts on your team to your hand. If you don't, discard Glow Angel.",
+        "Fun": "The Glow Angels watch from the clouds for distress. What counts as distress varies heavily between them.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942481",
+        "Number": 134,
+        "Name": "Googlow",
+        "Type": "Galactic Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When you would score a card from the top of your deck, you may score Googlow instead. If you do, draw two cards.",
+        "Fun": "Googlows started appearing around the same time Metrometropolis' Filamites started going missing.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942482",
+        "Number": 135,
+        "Name": "Gourmander",
+        "Type": "Chef Beast",
+        "Epic": "TRUE",
+        "Artist": "Bellymouth",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "When summoned, attacking, or defending, you may seach your deck for a Foodie Beast card, reveal it to all players, and put it into your hand. Shuffle your deck when you're done.",
+        "Fun": "Gourmander's appetite for culinary excellence is as voracious as its... well, appetite.",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942486",
+        "Number": 136,
+        "Name": "Harlefin",
+        "Type": "Aquatic Beast",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When Harlefin is moved between your team and sideline, draw a card.",
+        "Fun": "These little clowns use spritzflowers to hop from pool to pool, making intricate water ripple patterns.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942487",
+        "Number": 137,
+        "Name": "Highland Destrier",
+        "Type": "Gruffling Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When attacking or defending, if Highland Destrier is above a Grotto, put a card from the top of your summoning pool on the top of your deck.",
+        "Fun": "A crowd favorite at the robotics-filled Carnival Kingdom! They come and go as they see fit.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942488",
+        "Number": 138,
+        "Name": "Highlyre",
+        "Type": "Gruffling Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 6,
+        "Effect": "When summoned, each opponent skips their next turn's wake up step.",
+        "Fun": "Highlyres graze in groups, as their soothing notes harmonize across the rolling plains.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294248b",
+        "Number": 139,
+        "Name": "Hypnodaze",
+        "Type": "Weird Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When you summon Hypnodaze, you must choose a Beast in play and it rests. That Beast's player discards cards from the top of their deck equal to the chosen Beast's power.",
+        "Fun": "WooooOOOoooOOoOoooo!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294248a",
+        "Number": 140,
+        "Name": "Hydraxolotl",
+        "Type": "Titanic Beast",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 4,
+        "Goal": "-",
+        "Cost": 7,
+        "Effect": "During either of your action phases at any time, you may attach a Wish from your hand face up onto Hydraxolotl. \n\nHydraxolotl gains 1 power for each Wish attached to it.",
+        "Fun": "Their song ripples with wondrous healing powers!",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294248d",
+        "Number": 141,
+        "Name": "Invasive Wavestrider",
+        "Type": "Parasite Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When summoned, you may discard an Aquatic Beast you have in play that wasn't summoned this turn. If you do, Invasive Wavestrider does not gain summoning sadness and gains 2 power until the end of the turn.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294248f",
+        "Number": 142,
+        "Name": "Jelly Monkey",
+        "Type": "Foodie Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When summoned, each opponent puts all cards in their summoning pool into their hands.",
+        "Fun": "Food fights among these silly creatures are actually displays of affection!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942494",
+        "Number": 143,
+        "Name": "Jestapod",
+        "Type": "Imp Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When attacking or defending, play a game of Rock-Paper-Scissors with an opponent. If you win the game, Jestapod gains 1 power until the end of the turn.",
+        "Fun": "These impish creatures thrive at the Carnival, where they like to perch on unsuspecting attendees' heads.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942498",
+        "Number": 144,
+        "Name": "Jukeboxer",
+        "Type": "Musical Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 6,
+        "Effect": "When summoned, you may choose a Beast in play and it is discarded.",
+        "Fun": "Jukeboxer; play \"Eye of the Leozard\".",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942497",
+        "Number": 145,
+        "Name": "Jup the 1st",
+        "Type": "Glyph Beast",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When summoned, roll a six-sided die and call it. If you win the roll, choose a Beast in play and it rests.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e336162942499",
+        "Number": 146,
+        "Name": "Jup the 2nd",
+        "Type": "Glyph Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When summoned, choose an opponent and they put the top two cards of their deck into their discard pile.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294249a",
+        "Number": 147,
+        "Name": "Jup the 3rd",
+        "Type": "Glyph Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When summoned, discard the top three cards of your deck. Then, choose a card in your discard pile and put it on the top of your deck.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294249b",
+        "Number": 148,
+        "Name": "Jup the 4th",
+        "Type": "Glyph Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When summoned, reveal the top four cards of your deck to all players. Put each Grotto revealed in this way into your hand and reshuffle the rest back into you deck when you're done.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294249c",
+        "Number": 149,
+        "Name": "Kelpdrake Root",
+        "Type": "Aquatic Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "As Kelpdrake Root is spent to pay the summoning cost of a Grotto, you may summon Kelpdrake Root free of cost and it rests instead of adding it to your summoning pool.\n\nKelpdrake Root cannot attack.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294249d",
+        "Number": 150,
+        "Name": "Lavabrys Shark",
+        "Type": "Aquatic Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When attacking, you may put the top five cards of your deck into your summoning pool. If you do, Lavabrys Shark gains 3 power until the end of the turn.",
+        "Fun": "These fiery beasts, born from within the caldera, ward off the encroaching horrors in the depths.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294249f",
+        "Number": 151,
+        "Name": "Leozard",
+        "Type": "Plant Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When you summon a Grotto under Leozard, Leozard gains 2 power until the start of your next turn.",
+        "Fun": "They unfurl their mane in so many circumstances. It's assumed they're just very eager to show off.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e33616294249e",
+        "Number": 152,
+        "Name": "Lizard Wizard",
+        "Type": "Wizard Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When summoned, put a Wish or Wizard Beast from your discard pile to your hand.",
+        "Fun": "It is said they used to travel behind shooting stars!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424a0",
+        "Number": 153,
+        "Name": "Lobboss",
+        "Type": "Aquatic Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When summoned to your sideline, you may move another Aquatic Beast from your sideline to your team and it loses summoning sadness.",
+        "Fun": "Swimming with the fishes is its most preferred way to do business.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424a3",
+        "Number": 154,
+        "Name": "Meowdy",
+        "Type": "Sheriff Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When anything ends in a draw, you win instead.",
+        "Fun": "The long paw of the law!",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424a4",
+        "Number": 155,
+        "Name": "Metranomatone",
+        "Type": "Musical Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When summoned, if you also summoned a Wish this turn, you must choose a Beast in play and it rests or wakes up.",
+        "Fun": "It marches to its own tune!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424a7",
+        "Number": 156,
+        "Name": "Minereel",
+        "Type": "Geode Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 5,
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "Minereel does not wake up during your wake up step unless it is above a Grotto.",
+        "Fun": "These ancient creatures hold immense power, if you're patient enough to see it.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424a8",
+        "Number": 157,
+        "Name": "Moosaic",
+        "Type": "Glass Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When summoned, look at all cards in your summoning pool and you may reveal a Wish from among them to all players. If you do, put that card into your hand. Shuffle your summoning pool when you're done.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424a9",
+        "Number": 158,
+        "Name": "Mountidary",
+        "Type": "Titanic Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 6,
+        "Goal": "-",
+        "Cost": 6,
+        "Effect": "Mountidary can only be summoned to your sideline.\n\nWhen Mountidary is moved between your team and sideline, it rests.",
+        "Fun": "A marvel to behold! Mountidary migration and rest cycles keep cartographers busy.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424aa",
+        "Number": 159,
+        "Name": "Mr. Anycard",
+        "Type": "Lucky Beast",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When summoned, flip a coin and call it. If you win the flip, play a game of Rock-Paper-Scissors with an opponent. If you win the game, roll a six-sided die and call it. If you win the roll, score two cards.",
+        "Fun": "The name's Anycard. Pickacard Anycard.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424ad",
+        "Number": 160,
+        "Name": "Nebula Ray",
+        "Type": "Galactic Beast",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 4,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When summoned, you may discard two scored cards. If you don't, discard Nebula Ray.",
+        "Fun": "These iridescent creatures glide through space, looking for starbits to absorb.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424ae",
+        "Number": 161,
+        "Name": "Nightmite",
+        "Type": "Insect Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Ghostly Beasts on your team gain 1 power.",
+        "Fun": "The insect's flickering, cold glow guides wandering spirits to forgotten memories.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424af",
+        "Number": 162,
+        "Name": "Nyxwing",
+        "Type": "Roc Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When you score a card, you may score Nyxwing.",
+        "Fun": "The wind carries fragmented whispers of how to awaken the ancient owl, sleeping deep in the North.",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424b2",
+        "Number": 163,
+        "Name": "Optimal Illusion",
+        "Type": "Wizard Beast",
+        "Epic": "TRUE",
+        "Artist": "Hollulu",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "You may summon Beasts and Grottos from your discard pile as if they were in your hand.\n\nWhen you summon a Wish, you may choose a Beast in play and it rests.",
+        "Fun": "Behold: The Grand Finale!",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424b3",
+        "Number": 164,
+        "Name": "Paintergeist",
+        "Type": "Ghostly Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When summoned, attach three cards from the top of your deck face down onto Paintergeist.\n\nDuring either of your action phases at any time, you may rest Paintergeist and discard a card from Paintergeist. If the discarded card is a wish, you may summon it free of cost.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424b6",
+        "Number": 165,
+        "Name": "Peep-Peep",
+        "Type": "Surprise Beast",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When summoned, attacking, or defending, roll a six-sided die. If you roll an even number, Peep-Peep gains 1 power until the end of the turn. If you roll a 1, score Peep-Peep and draw a card.",
+        "Fun": "A tiny egg can carry tons of potential. And confetti!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424b9",
+        "Number": 166,
+        "Name": "Plunky",
+        "Type": "Plush Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "As you summon Plunky, you may choose to reveal to all players the cards spent to pay Plunky's summoning cost. If each card revealed in this way is the same card type, Plunky does not gain summoning sadness and gains 2 power until the end of the turn.",
+        "Fun": "An old friend.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424b8",
+        "Number": 167,
+        "Name": "Poñata",
+        "Type": "Surprise Beast",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When defending, if Poñata would be discarded from play during combat, flip a coin and call it. If you win the flip, move Poñata to your Sideline instead. If you can't or you lose the flip, discard Poñata and each opponent draws two cards.",
+        "Fun": "One... two... three..! And your time is up.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424ba",
+        "Number": 168,
+        "Name": "Pourcelain",
+        "Type": "Trinket Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When summoned to your sideline, draw two cards.",
+        "Fun": "The shimmering, magical sand that flows from Pourcelain can take on many forms.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424bd",
+        "Number": 169,
+        "Name": "Protojammer",
+        "Type": "Musical Beast",
+        "Epic": "TRUE",
+        "Artist": "Melscribbles",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "When summoned, you may attach any number of Wishes from your hand face up onto Protojammer.\n\nDuring either of your action phases at any time, you may rest Protojammer. When you do, summon a face up wish attached to Protojammer free of cost. It remains attached to Protojammer.",
+        "Fun": "-",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424be",
+        "Number": 170,
+        "Name": "Pteroducktyl",
+        "Type": "Feathered Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "Pteroducktyl cannot attack or defend alone.",
+        "Fun": "The most reliable steed in all the land!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424bf",
+        "Number": 171,
+        "Name": "Puddle Puppy",
+        "Type": "Soggy Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Puddle Puppy gains 3 power as long as an opponent has an Aquatic Beast in play.",
+        "Fun": "Glides through the water effortlessly and loves to collect seashells. ALWAYS wants to play fetch!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424c0",
+        "Number": 172,
+        "Name": "Radroot",
+        "Type": "Plant Beast",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When summoned above a Grotto, Radroot does not gain summoning sadness.",
+        "Fun": "When in doubt, raddish it out!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424c1",
+        "Number": 173,
+        "Name": "Razzleposs",
+        "Type": "Wizard Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When summoned, choose a player. That player puts a face down card from each Beast and Grotto they have in play onto the top of their summoning pool.",
+        "Fun": "The ol' razzle dazzle!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424c4",
+        "Number": 174,
+        "Name": "Rich Rat",
+        "Type": "Rat Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "At the start of your turn, if you have the fewest number of cards in your hand than any other player, draw a card.",
+        "Fun": "You don't always have to be the Giant Rat to run things around here.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424c7",
+        "Number": 175,
+        "Name": "Rummage Rat",
+        "Type": "Rat Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When defending, choose a card in your discard pile and put it on the top of your deck.",
+        "Fun": "Preys at night, stalks at night.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424c6",
+        "Number": 176,
+        "Name": "Scorptus",
+        "Type": "Plant Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When defending, choose an attacking Beast. At the end of battle, the chosen Beast is discarded.",
+        "Fun": "A living, venomous ballista— an angry one, too.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424c9",
+        "Number": 177,
+        "Name": "Seasprinter",
+        "Type": "Aquatic Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When summoned, Seasprinter does not gain summoning sadness.",
+        "Fun": "These momorious hippocampi can swiftly travel between sea and sky.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424ca",
+        "Number": 178,
+        "Name": "Serachime",
+        "Type": "Angelic Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When defending, if Serachime is discarded from play, you may return it to your hand instead.",
+        "Fun": "Sounds like home.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424cb",
+        "Number": 179,
+        "Name": "Sheetopillar",
+        "Type": "Musical Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When you summon a Wish, Sheetopillar wakes up.",
+        "Fun": "These fiesty robotic creatures love to explore and sing! Extra pep after eating AAA batteries.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424cc",
+        "Number": 180,
+        "Name": "Sir Greaves",
+        "Type": "Ghostly Beast",
+        "Epic": "TRUE",
+        "Artist": "Hollulu",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 9,
+        "Effect": "Sir Greaves costs 1 less to summon for each Beast in your discard pile.\n\nWhen Sir Greaves is discarded from play, shuffle it into your deck instead.",
+        "Fun": "Endlessly searching. He is never without his dragon companion.",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424d0",
+        "Number": 181,
+        "Name": "Sludge",
+        "Type": "Sludge Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 0,
+        "Effect": "Sludge cannot attack.",
+        "Fun": "Sludge...",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424d1",
+        "Number": 182,
+        "Name": "Small Enemy Spider",
+        "Type": "Spider Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 0,
+        "Effect": "Small Enemy Spider gains 2 power as long as you have no other Beasts on your team.",
+        "Fun": "Comes with its own miniboss theme!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424d3",
+        "Number": 183,
+        "Name": "Snailsman",
+        "Type": "Entrepreneur Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 4,
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "When you would score a card from the top of your deck, you may choose to score any card from your discard pile instead.",
+        "Fun": "A crawling bazaar, offering the most bizarre deals— Don't miss out!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424d4",
+        "Number": 184,
+        "Name": "Snaptrap",
+        "Type": "Plant Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When an opponent discards a card from their hand, attach a card from the top of your deck face down onto Snaptrap for each card discarded.\n\nSnaptrap gains 4 power as long as there are four of more cards attached to it.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424d6",
+        "Number": 185,
+        "Name": "Sneaky Rat",
+        "Type": "Rat Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When Sneaky Rat is discarded from play, if it was attached to a Beast or Grotto, you may summon Sneaky Rat to your sideline free of cost.",
+        "Fun": "Let's see what kind of trouble we can get ourselves into!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424d7",
+        "Number": 186,
+        "Name": "Sneezie",
+        "Type": "Weird Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When an opponent moves a Beast to another spot in play, that player discards a card from the top of their deck.",
+        "Fun": "Discovered to have over four hundred allergies, and counting.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424da",
+        "Number": 187,
+        "Name": "Spectocular",
+        "Type": "Wizard Beast",
+        "Epic": "FALSE",
+        "Artist": "Hollulu",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When summoned, look at the top three cards of your deck. Put one of them in your hand, another on the top of your summoning pool, and discard the rest.",
+        "Fun": "His prized possesion is his Nyxwing feather quill, that he's proud to have cleverly acquired.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424dd",
+        "Number": 188,
+        "Name": "Stormplaty",
+        "Type": "Weird Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When defending, each player rolls a six-sided die. Each player discards cards from the top of their deck equal to the result on the die they rolled.",
+        "Fun": "A Stormplaty's tail collects so much water from the clouds that it imitates a waterdrop.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424df",
+        "Number": 189,
+        "Name": "Strong Rat",
+        "Type": "Rat Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "Strong rat gains 1 power for each other Rat Beast you have on your sideline.",
+        "Fun": "And here we have an absolutely DEVASTATING Birthday Bash, Strong Rat's signature move!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424de",
+        "Number": 190,
+        "Name": "Stumpalump",
+        "Type": "Mold Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 6,
+        "Effect": "Stumpalump cannot be moved except with card effects.\n\nAt the start of your turn, if Stumpalump is above a Grotto, score a card.",
+        "Fun": "Absolutely stumped on what the whole beast looks like... and frankly, too afraid to find out.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424e3",
+        "Number": 191,
+        "Name": "Sweet Tooth",
+        "Type": "Foodie Beast",
+        "Epic": "FALSE",
+        "Artist": "Melscribbles",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When summoned, flip a coin and call it. If you win the flip, Sweet Tooth does not gain summoning sadness. If you lose the flip, rest Sweet Tooth.",
+        "Fun": "An aggressive morsel! Its burn is worse than its bite.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Melscribbles",
+                "Link": "https://twitter.com/melscribbles"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424e4",
+        "Number": 192,
+        "Name": "Tadpal",
+        "Type": "Aquatic Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 1,
+        "Effect": "When Tadpal is moved from your sideline to your team, you may choose a Beast on an opponent's sideline and move it to their team. If you do, the chosen Beast must defend this turn, if it is able to.",
+        "Fun": "-",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424e6",
+        "Number": 193,
+        "Name": "Thamacrow",
+        "Type": "Wizard Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 3,
+        "Goal": "-",
+        "Cost": 4,
+        "Effect": "When an opponent summons a Wish, draw a card.",
+        "Fun": "It is rumored that this ever-observant sorcerer is up to more than simply birdwatching.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424ec",
+        "Number": 194,
+        "Name": "Thingamachicken",
+        "Type": "Chimera Beast",
+        "Epic": "FALSE",
+        "Artist": "Bellymouth",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 6,
+        "Effect": "Thingamachicken gains 1 power for each unique Beast type among Beasts you have in play.",
+        "Fun": "A whole new meaning to \"working together\".",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Bubble",
+        "Artists": [
+            {
+                "Artist": "Bellymouth",
+                "Link": "https://twitter.com/BellymouthArt"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424ed",
+        "Number": 195,
+        "Name": "Toadstool",
+        "Type": "Fungal Beast",
+        "Epic": "TRUE",
+        "Artist": "Hollulu",
+        "Power": 0,
+        "Goal": "-",
+        "Cost": 5,
+        "Effect": "When summoned, you may choose a Beast in play and attach it face up onto Toadstool.\n\nToadstool's power is equal to the power of all face up Beasts attached to it.",
+        "Fun": "Likely, mostly the fungi. But it's also very much the toad. It's... something new altogether?",
+        "Rarity": "R",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Hollulu",
+                "Link": "https://twitter.com/meekcheep"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424ef",
+        "Number": 196,
+        "Name": "Toyrex",
+        "Type": "Techtic Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 5,
+        "Goal": "-",
+        "Cost": 6,
+        "Effect": "-",
+        "Fun": "A small creature with a big attitude. Despite its size, it will take on any opponent if it is threatened and bored.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424f0",
+        "Number": 197,
+        "Name": "Trickstircuit",
+        "Type": "Techtic Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 2,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When summoned, attach two cards from the top of your deck face down onto Trickstircuit.",
+        "Fun": "Despite being broken, it still can conduct an absurd amount of energy.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Shatter",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424f4",
+        "Number": 198,
+        "Name": "Veggiroo",
+        "Type": "Plant Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 3,
+        "Effect": "When defending, each Beast you have in play above a Grotto gains 1 power until the end of the turn.",
+        "Fun": "Very opportunistic, an absolute manace to farmers.",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424f6",
+        "Number": 199,
+        "Name": "Weeniemutt",
+        "Type": "Foodie Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "Weeniemutt gains 1 power for each Foodie Beast beside it.",
+        "Fun": "Weeniemutt grows a new link every year!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Dots",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    },
+    {
+        "_id": "643f6aa3cb2e3361629424f8",
+        "Number": 200,
+        "Name": "Zapbit",
+        "Type": "Wizard Beast",
+        "Epic": "FALSE",
+        "Artist": "Sturner",
+        "Power": 1,
+        "Goal": "-",
+        "Cost": 2,
+        "Effect": "When attacking or defending, you may discard up to three cards from you hand. Zapbit gains 1 power until the end of the turn for each card discarded in this way.",
+        "Fun": "Quick as lightning, bold as thunder!",
+        "Rarity": "C",
+        "Notes": "",
+        "HoloType": "Wave",
+        "Artists": [
+            {
+                "Artist": "Sturner",
+                "Link": "https://twitter.com/Sturnerart"
+            }
+        ]
+    }
+]
