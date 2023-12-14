@@ -1,3 +1,6 @@
 [submodule "butano"]
 	path = butano
 	url = https://github.com/GValiente/butano.git
+[submodule "fonts"]
+	path = fonts
+	url = https://github.com/laqieer/gba-free-fonts.git
