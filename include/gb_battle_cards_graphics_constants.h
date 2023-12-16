@@ -1,7 +1,7 @@
 
-#ifndef GB_BATTLE_SCENE_CARD_GRAPHICS_CONSTANTS_H
-#define GB_BATTLE_SCENE_CARD_GRAPHICS_CONSTANTS_H
-#include "gb_battle_scene_constants.h"
+#ifndef GB_BATTLE_CARD_GRAPHICS_CONSTANTS_H
+#define GB_BATTLE_CARD_GRAPHICS_CONSTANTS_H
+#include "gb_battle_constants.h"
 
 namespace gb::battle {
     struct cell_graphics_info {

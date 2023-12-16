@@ -1,9 +1,4 @@
-#include "gb_battle_scene_cards_graphics.h"
-#include "bn_log.h"
-#include "bn_regular_bg_map_cell_info.h"
-#include "bn_bg_palette_items_cards_palette.h"
-#include "bn_regular_bg_tiles_items_cards.h"
-#include "unifont_sprite_font.h"
+#include "gb_battle_cards_graphics.h"
 
 namespace gb
 {
@@ -30,12 +25,12 @@ namespace gb
             bg_map.reload_cells_ref();
         }
 
-        void cards_graphics::show_card_info(card c)
+        void cards_graphics::show_info(bn::string<13> title, bn::string<32> body)
         {
             title_text.clear();
-            text_generator.generate(-116, 57, c.short_name, title_text);
             body_text.clear();
-            text_generator.generate(-116, 73, c.long_name, body_text);
+            text_generator.generate(-116, 57, title, title_text);
+            text_generator.generate(-116, 73, body, body_text);
         }
 
         void cards_graphics::show_player_hand(int hand[], int size, int offset)

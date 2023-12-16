@@ -1,4 +1,4 @@
-#include "gb_battle_scene_cursor.h"
+#include "gb_battle_cursor.h"
 
 namespace gb
 {

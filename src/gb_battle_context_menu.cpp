@@ -1,4 +1,4 @@
-#include "gb_battle_scene_context_menu.h"
+#include "gb_battle_context_menu.h"
 
 namespace gb::battle
 {

@@ -1,8 +1,8 @@
-#ifndef GB_BATTLE_SCENE_CURSOR_H
-#define GB_BATTLE_SCENE_CURSOR_H
+#ifndef GB_BATTLE_CURSOR_H
+#define GB_BATTLE_CURSOR_H
 
 // Dependencies
-#include "gb_battle_scene_constants.h"
+#include "gb_battle_constants.h"
 #include "bn_fixed_point.h"
 #include "bn_sprite_ptr.h"
 
